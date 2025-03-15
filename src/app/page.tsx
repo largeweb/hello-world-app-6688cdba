@@ -1,0 +1,1 @@
+I need the tracker information to generate code for `src/app/page.tsx`. Please provide the tracker in the GenStack NextOnPages Tracker Format (XML). I need to know the project details, component structure, dependencies, styling, and other relevant information before I can generate the code.
